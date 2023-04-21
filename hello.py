@@ -1,1 +1,1 @@
-vcdcvzcxzczxvczxcv
+print("Hello world")
